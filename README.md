@@ -1,1 +1,4 @@
-# Mental-Health-in-Tech-Survey
+# Mental Health in Tech Survey
+Mental disorders are one of the most serious problems that the world suffers from from the past until now, and they are constantly increasing, especially within the rapid technological revolution that is taking place in the world.
+In most cases, it is difficult to determine the causes of these disorders, and this makes their diagnosis more difficult, in addition to the lack of data in the psychological field. The diagnosis is made based on the patient's behavior, feelings, or thoughts. Therefore, researchers in OPEN SOURCING MENTAL ILLNESS OSMH[1](https://osmhhelp.org/about/about-osmi)) identified some of the influencing factors that lead to the occurrence or exacerbation of mental illness, which were collected in a Mental Health in Tech Survey[2](https://osmhhelp.org/research) implemented in 2014 that measures attitudes towards mental health and the frequency of mental health disorders in the technology workplace.
+The survey contained 27 different workers and questions, which were applied to about 1,300 workers in a technology workplace.
